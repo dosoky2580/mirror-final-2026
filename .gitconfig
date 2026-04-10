@@ -1,0 +1,7 @@
+[user]
+	email = tamer@example.com
+	name = Tamer
+[credential]
+	helper = store
+[core]
+	excludesfile = /data/data/com.termux/files/home/.gitignore_global
